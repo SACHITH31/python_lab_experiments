@@ -6,3 +6,6 @@ print(a, b)
 print(a + b)
 
 print(a * b)
+
+# to check the a is an complex number or not
+print(isinstance(a, complex))
